@@ -5,7 +5,9 @@
 
 
 
-//Arguments objects are not availablein arrow functions.
+// Arguments objects are not availablein arrow functions.
+// hrjthekrjt
+// rtyret
 // function add(x,y){
 //     console.log(arguments);
 //     return x+y;
