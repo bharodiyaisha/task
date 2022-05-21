@@ -11,6 +11,7 @@ const MemoExample = () => {
   return (
     <div>
       <button onClick={() => setA(a + 1)}>a</button>
+      {/* tftguy */}
       <button onClick={() => setB(b + 5)}>b</button>
     </div>
   );
